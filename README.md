@@ -6,6 +6,8 @@
 
 **GridSearchCV for hyperparameter optimization**
 
+**Technologies Used Python**
+
 
 #  Project Overview 
 The sinking of the RMS Titanic on April 15, 1912, resulted in the loss of 1502 out of 2224 passengers and crew. This project analyzes passenger data (name, age, gender, socio-economic class, etc.) to determine what sorts of people were more likely to survive.
@@ -56,12 +58,20 @@ Age*Class interaction feature
 # Results
 Model	Accuracy
 Random Forest	91.47%
+
+
 Decision Tree	91.47%
+
+
 Gradient Boosting	87.88%
+
+
 KNN	86.20%
+
+
 SVM	81.59%
-Technologies Used
-Python
+
+
 
 # Key Insights
 
