@@ -1,7 +1,7 @@
-# ** Project Overview **
+#  Project Overview 
 The sinking of the RMS Titanic on April 15, 1912, resulted in the loss of 1502 out of 2224 passengers and crew. This project analyzes passenger data (name, age, gender, socio-economic class, etc.) to determine what sorts of people were more likely to survive.
 
-# ** Key Features **
+#  Key Features 
 
 **Data Exploration & Visualization**: Comprehensive analysis using seaborn and matplotlib to understand feature distributions and correlations
 
@@ -43,7 +43,7 @@ Age*Class interaction feature
 
 **Ensemble Learning**: Implemented a VotingClassifier combining top models for improved predictions
 
-#**Results**
+# Results
 Model	Accuracy
 Random Forest	91.47%
 Decision Tree	91.47%
